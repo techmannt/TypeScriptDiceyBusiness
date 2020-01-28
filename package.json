@@ -1,0 +1,26 @@
+{
+  "name": "typescriptdiceybusiness",
+  "version": "2.0.0",
+  "description": "Typescript version",
+  "main": "app.js",
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "jquery": "^3.4.1",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techmannt/TypeScriptDiceyBusiness.git"
+  },
+  "author": "Nate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techmannt/TypeScriptDiceyBusiness/issues"
+  },
+  "homepage": "https://github.com/techmannt/TypeScriptDiceyBusiness#readme"
+}
